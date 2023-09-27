@@ -3,5 +3,5 @@
 
 - 1-listit - This file is an executable file that displays the contents list of your current directory.
 
--2-bring_me_home - This file is an executable file that changes the working directory to the user’s home directory.
+- 2-bring_me_home - This file is an executable file that changes the working directory to the user’s home directory.
 
