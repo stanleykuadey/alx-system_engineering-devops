@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ap1 | grep -E '/$|\.' | LC_ALL=C sort --ignore-case --group-directories-first | tr '\n' ',' | tr -d '\n'  echo
+ls -mpa
