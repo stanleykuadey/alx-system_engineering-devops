@@ -22,4 +22,3 @@ This project is not under any license.
 
 ALX Africa SWE Program
 
-
